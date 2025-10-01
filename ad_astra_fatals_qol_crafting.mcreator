@@ -1,0 +1,38 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:fatals_qol_crafting:stones": []
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ad_astra_fatals_qol_crafting",
+    "modName": "Ad Astra: Fatal\u0027s QoL Crafting",
+    "version": "1.0.0",
+    "description": "Adds compatibility between Fatal’s QoL Crafting and Ad Astra",
+    "author": "FatalMistake02",
+    "websiteURL": "https://fatalmistake02.com",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [
+      "fatals_qol_crafting",
+      "create"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.20.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.adastrafatalsqolcrafting"
+  },
+  "mcreatorVersion": 202500113416
+}

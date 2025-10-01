@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "ad_astra:polished_venus_stone_stairs"
+    }
+  },
+  "result": {
+    "item": "ad_astra:polished_venus_stone",
+    "count": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "aa ",
+    "aa "
+  ],
+  "key": {
+    "a": {
+      "item": "ad_astra:glacio_stone_stairs"
+    }
+  },
+  "result": {
+    "id": "ad_astra:glacio_stone",
+    "count": 3
+  }
+}

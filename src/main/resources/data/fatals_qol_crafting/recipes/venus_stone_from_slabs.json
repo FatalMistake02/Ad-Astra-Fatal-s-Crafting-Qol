@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "ad_astra:venus_stone_slab"
+    }
+  },
+  "result": {
+    "id": "ad_astra:venus_stone",
+    "count": 1
+  }
+}

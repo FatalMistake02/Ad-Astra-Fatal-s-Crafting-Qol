@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ad_astra:strophar"
+    }
+  },
+  "result": {
+    "item": "ad_astra:strophar_trapdoor",
+    "count": 12
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "ad_astra:permafrost_slab"
+    }
+  },
+  "result": {
+    "item": "ad_astra:permafrost",
+    "count": 1
+  }
+}

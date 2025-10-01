@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="ad_astra_fatals_qol_crafting"
+version="1.0.0"
+displayName="Ad Astra: Fatal's QoL Crafting"
+displayURL="https://fatalmistake02.com"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="FatalMistake02"
+description="Adds compatibility between Fatal\u2019s QoL Crafting and Ad Astra"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.ad_astra_fatals_qol_crafting]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.248,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.ad_astra_fatals_qol_crafting]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.4]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.ad_astra_fatals_qol_crafting]]
+    modId="fatals_qol_crafting"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ad_astra_fatals_qol_crafting]]
+    modId="create"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

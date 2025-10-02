@@ -29,20 +29,23 @@ description="Adds compatibility between Fatal\u2019s QoL Crafting and Ad Astra"
     ordering="AFTER"
     side="BOTH"
 
-[[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="fatals_qol_crafting"
-    type="required"
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
-[[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="create"
-    type="required"
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
 
 
 
 # Start of user code block dependencies configuration
+
+[[dependencies.ad_astra_fatals_qol_crafting]]
+    modId="fatals_qol_crafting"
+    type="required"
+    versionRange="[1.0.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ad_astra_fatals_qol_crafting]]
+    modId="ad_astra"
+    type="required"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+
 # End of user code block dependencies configuration

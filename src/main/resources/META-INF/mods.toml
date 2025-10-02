@@ -16,33 +16,36 @@ description="Adds compatibility between Fatal\u2019s QoL Crafting and Ad Astra"
 # End of user code block mod configuration
 
 [[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="neoforge"
-    type="required"
-    versionRange="[20.4.248,)"
-    ordering="AFTER"
-    side="BOTH"
+modId="neoforge"
+type="required"
+versionRange="[20.4.248,)"
+ordering="AFTER"
+side="BOTH"
 
 [[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="minecraft"
-    type="required"
-    versionRange="[1.20.4]"
-    ordering="AFTER"
-    side="BOTH"
+modId="minecraft"
+type="required"
+versionRange="[1.20.4]"
+ordering="AFTER"
+side="BOTH"
 
-[[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="fatals_qol_crafting"
-    type="required"
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
-[[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="ad_astra"
-    type="required"
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
 
 
 
 # Start of user code block dependencies configuration
+
+[[dependencies.ad_astra_fatals_qol_crafting]]
+modId="fatals_qol_crafting"
+type="required"
+versionRange="[1.0.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.ad_astra_fatals_qol_crafting]]
+modId="ad_astra"
+type="required"
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+
+
 # End of user code block dependencies configuration

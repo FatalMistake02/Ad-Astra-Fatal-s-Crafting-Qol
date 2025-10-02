@@ -36,7 +36,7 @@ description="Adds compatibility between Fatal\u2019s QoL Crafting and Ad Astra"
     ordering="NONE"
     side="BOTH"
 [[dependencies.ad_astra_fatals_qol_crafting]]
-    modId="create"
+    modId="ad_astra"
     type="required"
     versionRange="[0,)"
     ordering="NONE"

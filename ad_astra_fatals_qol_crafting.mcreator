@@ -3,7 +3,18 @@
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {
-    "ITEMS:fatals_qol_crafting:stones": []
+    "ITEMS:fatals_qol_crafting:stones": [
+      "EXTERNAL:ad_astra:moon_stone",
+      "EXTERNAL:ad_astra:mars_stone",
+      "EXTERNAL:ad_astra:venus_stone",
+      "EXTERNAL:ad_astra:mercury_stone",
+      "EXTERNAL:ad_astra:glacio_stone",
+      "EXTERNAL:ad_astra:moon_cobblestone",
+      "EXTERNAL:ad_astra:mars_cobblestone",
+      "EXTERNAL:ad_astra:venus_cobblestone",
+      "EXTERNAL:ad_astra:mercury_cobblestone",
+      "EXTERNAL:ad_astra:glacio_cobblestone"
+    ]
   },
   "tab_element_order": {},
   "language_map": {
@@ -25,7 +36,7 @@
     "modPicture": "logo",
     "requiredMods": [
       "fatals_qol_crafting",
-      "create"
+      "ad_astra"
     ],
     "dependencies": [],
     "dependants": [],
